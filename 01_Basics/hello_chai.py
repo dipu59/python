@@ -5,3 +5,7 @@ def chai(n):
 
 chai("Lemon Tea")
 print(9+22)
+
+chai_one = "lemon tea"
+chai_two = "ginger tea"
+chai_three = "masala tea"
